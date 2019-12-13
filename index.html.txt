@@ -1,0 +1,27 @@
+<!doctype html>
+<html lang="sk">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="description" content="Zaverecne zadanie">
+    <meta name="author" content="Viktoriia Cherednychenko, Vasyl Klevľanyk, Vlad Semeniuk">
+    <title>Zaverečne zadanie</title>
+    
+    <!-- Custom styles for this template -->
+    <link rel="stylesheet" type="text/css" href="css/custom.css">
+    
+  </head>
+
+  <body>
+
+    <header>
+
+      <h2> Rozdelenie Uloh</h2>
+      
+    </header>
+    <p> Vasyl Klevľanyk: <br>1. Vytvorenie 5 križovatiek.<br> 2. Spracovanie git-učtu.<br> 3. Zobrazenie počítadla osobných prístupov na stránku.<br> 4.Favicon pre vytvorenú stránku.<br></p>
+    <p> Viktoriia Cherednychenko: <br>1. Vytvorenie 5 križovatiek.<br> 2. Zobrazenie aktuálneho dátumu s meninami v daný deň.<br> 3.Návrh grafického dizajnu pomocou CSS len v externom súbore.<br> 4. Prispôsobenie stránky pre tlač pomocou CSS.</p>
+    <p> Vlad Semeniuk:<br> 1. Vytvorenie 5 križovatiek.<br> 2. Vytvorenie aplikácií zobrazujúcej situácie na križovatkách.<br> 3. Validacia stranky HTML a CSS.<br> 4. Vytvorenie kontaktu na všetkých autorov a checklist, ktoré úlohy zo zadania boli splnené a kto čo robil.
+      
+</body>
+</html>
