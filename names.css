@@ -1,0 +1,125 @@
+html, body {
+  height: 100%;
+}
+
+#names_line {
+    font-family: Arial;
+    font-size: 20px;
+    color: red;
+    position:relative;
+    animation-name: example;
+    animation-duration: 15s;
+    animation-iteration-count: infinite;
+    animation-timing-function: linear;
+}
+
+@keyframes example {
+  0%   {left:100%; top:0px;}
+100% {left:0px; top:0px}
+}
+
+* {
+  box-sizing: border-box;
+}
+
+h2{
+  text-align: center;
+}
+
+.column-left, .column-right {
+  float: left;
+  width: 15%;
+  background-color:#ccc;
+  height: 100%;
+  padding: 10px;
+  font-family: Arial;
+}
+
+.column-middle {
+  float: left;
+  width: 70%;
+  background-color:#F5F5F5;
+  height: 100%;
+  padding: 10px;
+  font-family: Arial;
+}
+
+.counter-label {
+  display:inline-block;
+  width:40%;
+  padding:1px
+}
+
+.counter-info {
+   display:inline-block;
+   width:55%;
+   padding:1px
+}
+
+
+/*section{
+  background-color: white;
+}*/
+
+.row{
+  height: 100%;
+}  
+
+
+.row:after {
+  content: "";
+  display: table;
+  clear: both;
+}
+
+.names_text{
+    width: 100%;
+    margin-bottom:10px;
+    height:30px;
+    border-radius:5px;
+}
+
+.names_button{
+    width: 50%;
+    margin-bottom:10px;
+    margin-left:3px;
+    height:30px;
+    border-radius:5px;
+}
+
+textarea {
+  resize: none;
+}
+
+.hrcounter {
+   margin:10px;
+   border-top: 1px dotted;
+}
+
+.counter{
+    width:100%;
+    display:block;
+    border-radius:5px;
+    padding:2px;
+}
+
+nav a.active {
+  background-color: lightblue;
+}
+
+th, td { border: 1px solid black; 
+margin-right: 25px;
+margin-left: 25px;
+}
+
+tbody{
+  margin: 0px;
+}
+
+table{
+  background-color: white;
+  text-align: left;
+  margin: 10px;
+  padding:10px;
+
+}
