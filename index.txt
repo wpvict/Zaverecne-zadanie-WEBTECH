@@ -1,4 +1,4 @@
-<!doctype html>
+﻿<!doctype html>
 <html lang="sk">
   <head>
     <meta charset="utf-8">
@@ -22,6 +22,8 @@
     <p> Vasyl Klevľanyk: <br>1. Vytvorenie 5 križovatiek.<br> 2. Spracovanie git-učtu.<br> 3. Zobrazenie počítadla osobných prístupov na stránku.<br> 4.Favicon pre vytvorenú stránku.<br></p>
     <p> Viktoriia Cherednychenko: <br>1. Vytvorenie 5 križovatiek.<br> 2. Zobrazenie aktuálneho dátumu s meninami v daný deň.<br> 3.Návrh grafického dizajnu pomocou CSS len v externom súbore.<br> 4. Prispôsobenie stránky pre tlač pomocou CSS.</p>
     <p> Vlad Semeniuk:<br> 1. Vytvorenie 5 križovatiek.<br> 2. Vytvorenie aplikácií zobrazujúcej situácie na križovatkách.<br> 3. Validacia stranky HTML a CSS.<br> 4. Vytvorenie kontaktu na všetkých autorov a checklist, ktoré úlohy zo zadania boli splnené a kto čo robil.
-      
+      <script>
+		alert('on commit');
+	</script>
 </body>
 </html>
